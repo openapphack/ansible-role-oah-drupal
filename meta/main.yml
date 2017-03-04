@@ -10,7 +10,7 @@ dependencies:
 
 galaxy_info:
   author: Vinod Panicker
-  description: Install Drupal
+  description: Install Drupal for OAH
   company: ""
   license: "license (BSD, MIT)"
   min_ansible_version: 2.0
